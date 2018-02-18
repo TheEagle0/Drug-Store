@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Drug Store</string>
+    <string name="image_view_of_the_big_photo">Image view of the big Photo</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="phone_number">+2 0133 268 400</string>
+    <string name="email">pharmacy123@gmail.com</string>
+    <string name="address">Abo Mosa ST Banha, Qalubia ,Egypt</string>
+    <string name="description">A store where you can by your medicines and some cosmetics stuff</string>
+    <string name="working_hours">10AM : 1AM</string>
+    <string name="email_icon">email icon</string>
+    <string name="description_icon">description icon</string>
+    <string name="address_icon">address icon</string>
+    <string name="time_icon">time icon</string>
+</resources>
